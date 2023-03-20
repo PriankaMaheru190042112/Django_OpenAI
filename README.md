@@ -1,1 +1,1 @@
-# Django_OpenAI
+Generates image from text using OpenAI api
